@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>服务内容 on 一个好用的单位转换工具 - SA Unit</title>
+    <link>/services/</link>
+    <description>Recent content in 服务内容 on 一个好用的单位转换工具 - SA Unit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2022 20:48:14 +0800</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>覆盖单位</title>
+      <link>/services/sa-unit-convert/</link>
+      <pubDate>Fri, 22 Jul 2022 20:48:14 +0800</pubDate>
+      
+      <guid>/services/sa-unit-convert/</guid>
+      <description>覆盖所有的可转换的单位集合，包括：长度、质量、时间、电流、功/能/热、等单位；涉及多种学科多行业中需进行的单位换算内容；兼容全球各区域间单位制的相互转换。
+目标 努力覆盖所有的单位，所有行业，所有区域的单位转换。公制、台制、市制、英制、中方古制、专属单位等。
+计量制度 计量单位制（system of measurement units）又称计量系统（system of measurement），简称计量制、单位制（system of units），是计量单位和它们彼此相关规则的集合。 为了科学和商业的目的，历史上计量系统一直是重要的，受到管制和定义的。现代使用的计量系统包括公制，英制和美制。中国传统的计量单位制叫度量衡。
+国际单位制(SI) 国际单位制（法语：Système International d&amp;rsquo;Unités，简称 SI），源于公制（又称米制），是世界上最普遍采用的标准度量系统。国际单位制以七个基本单位为基础，由此建立起一系列相互换算关系明确的“一致单位”。另有二十个基于十进制的词头（前缀），当加在单位名称或单位符号前的时候，可用于表达该单位的倍数或分数。
+国际单位制源于法国大革命期间所采用的十进制单位系统 ── 公制；现行制度从 1948 年开始建立，于 1960 年正式公布。它的基础是米-千克-秒制（MKS），而非任何形式的厘米-克-秒制（CGS）。国际单位制的设计意图是，先定义词头名称和单位名称，但单位本身的定义则会随着度量科技的进步、精准度的提高，根据国际协议来演变。例如，分别于 2011 年、2014 年举办的第 24、25 届国际计量大会讨论了有关重新定义千克的提案。[1]基本单位的定义修订提案于 2018 年 11 月 16 日的第 26 届大会通过。[2]，并于 2019 年 5 月 20 日起正式生效。[3]
+随着科学的发展，厘米-克-秒制中出现了不少新的单位，而各学科之间在单位使用的问题上也没有良好的协调。因此在 1875 年，多个国际组织协定《米制公约》，创立了国际计量大会，目的是订下新度量衡系统的定义，并在国际上建立一套书写和表达计量的标准。
+国际单位制已受大部分国家所采纳，但在英语国家当中，国际单位制并没有受到全面的使用。
+ 基本单位
+ 国际单位制以一组基本单位为基础，所有其他单位都是用基本单位建立起来的。麦克斯韦最初提出一致单位制的概念时，列出了三个可用的基本单位：长度、质量及时间单位。之后，吉奥尔吉提倡加入电的基本单位。理论上，电流、电势、电阻、电荷等物理量的单位都可以做电的基本单位，当选定其中一个做基本单位后，其余的电单位都可以通过物理定律从基本单位推导得出；国际单位制最终选择了使用电流，作为“电的基本单位”。后期，又加入了三个分别量度热力学温度、物质的量及发光强度的基本单位。
+   单位名称 单位符合 物理量 定义 量纲符号     米 m 长度  L   千克 kg 重量  M   秒 s 时间  T   安培 A 电流  I   开 | 尔文 K 热力学温度  Θ   摩 | 尔 mol 物质的量  N   坎 | 德拉 cd 发光强度  J     导出单位</description>
+    </item>
+    
+    <item>
+      <title>编程语言</title>
+      <link>/services/program-language/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/program-language/</guid>
+      <description>针对流行的编程语言，如：Go、Swift、Java、C#、Rust、JavaScript、PHP 等，提供完备的支持和人性化的使用体验。
+目标 覆盖所有编译语言
+ Go 通过使用 sa-unit 实现 Java JavaScript  已完成目标 Go 获取库
+go get github.com/sa-pod/sa-unit 使用
+package main import (  &amp;#34;fmt&amp;#34;   &amp;#34;github.com/sa-pod/sa-unit&amp;#34; ) func main() {  kg := &amp;#34;18kg&amp;#34;  jin,unit := unit.To(kg, &amp;#34;斤&amp;#34;)  fmt.Println(jin, unit)  g := &amp;#34;20g=&amp;gt;斤&amp;#34;  jin, unit = unit.To(g)  fmt.Println(jin, unit)  n,nu = 20, &amp;#34;kg&amp;#34;  jin, unit = unit.To(n, nu,&amp;#34;斤&amp;#34;)  fmt.Println(jin, unit) } </description>
+    </item>
+    
+    <item>
+      <title>开放云服务</title>
+      <link>/services/open-cloud-service/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/open-cloud-service/</guid>
+      <description>Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem Cretaeas enim ipse pectora excusat candentibus fertur? Furtiva Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+ Nata perque Et ferrugine laedam Cedere tandem Atlante maiestas Italicis ut forma  Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum precor facitote nubemque. Potuit Celadon Martem?
+ Imagine Assaracus victori petet femina mea haustos Sicaniam quibus agro magni In utque Troica pedum caelestia hunc tempto Gregibus certare tamen turbatque qui  Patulis Veneris est expulit adversaque magnum mediaque Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit.</description>
+    </item>
+    
+    <item>
+      <title>商用服务</title>
+      <link>/services/business-service/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/business-service/</guid>
+      <description>Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares ignisque quaerit dederat gemino Aethiopesque caelo ulciscitur est. Morte lugebere conatur Pallada quaerentes tulit, ignis vagatur undis, latitantem ignemque non laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat Coroneus est qui viscere barbariam seris. Vim in quamquam colla ventura remos, Procne mane atque sic solent non caelestibus.</description>
+    </item>
+    
+  </channel>
+</rss>
