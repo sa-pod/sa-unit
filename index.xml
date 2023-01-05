@@ -104,6 +104,15 @@ package main import (  &amp;#34;fmt&amp;#34;   &amp;#34;github.com/sa-pod/sa-uni
     </item>
     
     <item>
+      <title>快速开始</title>
+      <link>/start/</link>
+      <pubDate>Fri, 22 Jul 2022 22:16:02 +0800</pubDate>
+      
+      <guid>/start/</guid>
+      <description>直接通过脚本程序安装</description>
+    </item>
+    
+    <item>
       <title>关于我们</title>
       <link>/about/</link>
       <pubDate>Tue, 22 Feb 2022 17:01:34 +0700</pubDate>
