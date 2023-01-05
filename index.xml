@@ -117,6 +117,19 @@ package main import (  &amp;#34;fmt&amp;#34;   &amp;#34;github.com/sa-pod/sa-uni
     </item>
     
     <item>
+      <title>文档</title>
+      <link>/docs/</link>
+      <pubDate>Tue, 22 Feb 2022 17:01:34 +0700</pubDate>
+      
+      <guid>/docs/</guid>
+      <description>一个好用的单位转换工具
+多平台兼容 经过不懈的努力，提供 Windows、Mac OS、Linux 和 Andorid、IOS（苹果手机）等系统的支持。
+ 下载地址
+ Windows: Mac OS: Linux: Android: IOS:   开放的线上接口 我们提供基于 API 的运程调用，并提供多种编程语言的 SDK 方便开发使用。
+ API 文档 SDK 下载地址：  Go： Java: C#: JavaScript: Swift: C:    我们是一群向往自由的人，渴望田野的编程爱好者。想用自己的微薄之力，走向星辰大海。愿我们健康、快乐、自由。</description>
+    </item>
+    
+    <item>
       <title>联系我们</title>
       <link>/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
